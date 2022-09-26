@@ -1,0 +1,1 @@
+#Detecta el sistema operatiu
